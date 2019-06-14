@@ -1,1 +1,2 @@
 # lakes
+*landolakes<println>
